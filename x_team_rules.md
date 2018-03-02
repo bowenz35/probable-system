@@ -1,4 +1,4 @@
-# X-Team 23 Rules
+# X-Team NN Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -13,7 +13,7 @@ and missed deadlines.
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
-
+Group up and track progress and time depends on difficulties of the program.
 
 
 ## How will will communicate difficulties with a task assigned to us
